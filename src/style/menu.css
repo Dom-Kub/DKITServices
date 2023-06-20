@@ -1,0 +1,19 @@
+.menu {
+  background-color: black;
+  position: fixed;
+  opacity: 0.8;
+  z-index: 9999;
+}
+.menu-icons-center {
+  padding: 5px;
+  color: white;
+}
+.menu-icons-side {
+  padding: 0px 30px;
+  color: white;
+}
+
+.menu-side-icon {
+  color: #00d1cd;
+  padding: 5px;
+}
