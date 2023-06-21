@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DKITServices/static/css/main.0f96210a.css",
+    "main.js": "/DKITServices/static/js/main.7fb00632.js",
+    "static/js/787.8a9a7c50.chunk.js": "/DKITServices/static/js/787.8a9a7c50.chunk.js",
+    "static/media/4.jpeg": "/DKITServices/static/media/4.ece53c27701c288de8b8.jpeg",
+    "static/media/5.jpeg": "/DKITServices/static/media/5.c78e36115e91e80ce1d6.jpeg",
+    "static/media/3.jpeg": "/DKITServices/static/media/3.4adb5a449929f43303dc.jpeg",
+    "static/media/1.jpeg": "/DKITServices/static/media/1.70af6fb402eba483e531.jpeg",
+    "static/media/2.jpeg": "/DKITServices/static/media/2.36e689a5e762448dad22.jpeg",
+    "static/media/6.jpeg": "/DKITServices/static/media/6.0f31d1a74b9384780bef.jpeg",
+    "static/media/logo-color.png": "/DKITServices/static/media/logo-color.4311d2c2cc54696fccb2.png",
+    "static/media/logo-no-background.png": "/DKITServices/static/media/logo-no-background.e18511d760fa715b5027.png",
+    "index.html": "/DKITServices/index.html",
+    "main.0f96210a.css.map": "/DKITServices/static/css/main.0f96210a.css.map",
+    "main.7fb00632.js.map": "/DKITServices/static/js/main.7fb00632.js.map",
+    "787.8a9a7c50.chunk.js.map": "/DKITServices/static/js/787.8a9a7c50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f96210a.css",
+    "static/js/main.7fb00632.js"
+  ]
+}
