@@ -4,3 +4,9 @@
 *.pack
 *.map
 *.old
+*.old
+*.pack
+node_modules/.cache/default-development/3.pack
+*.old
+*.pack
+*.pack
